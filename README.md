@@ -1,10 +1,9 @@
 
 # PDF Generator
 
-There are two goals with this.
+The goal with this.
 
-1. Create a PDF invoice given some data about a fake customer's recent transactions
-2. Generate a course completion certificate and add your name to it!
+1. Create a PDF invoice given some data about a customer's recent transactions
 
 ### Creating a PDF invoice
 
